@@ -17,3 +17,5 @@ namespace Catalog
         }
     }
 }
+
+// Another test
