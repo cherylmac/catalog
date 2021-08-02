@@ -18,4 +18,3 @@ namespace Catalog
     }
 }
 
-// Another test
